@@ -1,3 +1,7 @@
+# [Deprecated]
+
+Package has been moved here [here](https://github.com/snamoah/react-datetime-range-picker)
+
 # react-datetime-range-picker
 
 This is a datetime range picker based off of [react-datetime](https://github.com/YouCanBookMe/react-datetime). It is highly customizable and isn't dependent on jQuery.
